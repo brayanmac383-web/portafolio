@@ -22,9 +22,9 @@ const EducationSection = () => (
    <section id="education" className="p-6 bg-gray-800 rounded-lg">
     <h2 className="text-2xl font-bold text-white mb-4 border-b border-gray-700 pb-2">Educación</h2>
     <div>
-      <h3 className="font-bold text-lg text-cyan-400">Tecnología en Análisis y Desarrollo de Sistemas de Información</h3>
-      <p className="font-medium">Servicio Nacional de Aprendizaje (SENA)</p>
-      <p className="text-sm text-gray-400">2022 - Presente</p>
+      <h3 className="font-bold text-lg text-cyan-400">TECNOLOGO Desarrollo de Software</h3>
+      <p className="font-medium">(UNIMINUTO)</p>
+      <p className="text-sm text-gray-400">2023 - Presente</p>
     </div>
   </section>
 );
